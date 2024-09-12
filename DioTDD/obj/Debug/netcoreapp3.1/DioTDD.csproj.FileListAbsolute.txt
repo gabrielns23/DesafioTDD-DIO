@@ -1,0 +1,13 @@
+C:\Users\gabri\source\repos\DioTDD\obj\Debug\netcoreapp3.1\DioTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\DioTDD\obj\Debug\netcoreapp3.1\DioTDD.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\DioTDD\obj\Debug\netcoreapp3.1\DioTDD.AssemblyInfo.cs
+C:\Users\gabri\source\repos\DioTDD\obj\Debug\netcoreapp3.1\DioTDD.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\DioTDD\bin\Debug\netcoreapp3.1\DioTDD.exe
+C:\Users\gabri\source\repos\DioTDD\bin\Debug\netcoreapp3.1\DioTDD.deps.json
+C:\Users\gabri\source\repos\DioTDD\bin\Debug\netcoreapp3.1\DioTDD.runtimeconfig.json
+C:\Users\gabri\source\repos\DioTDD\bin\Debug\netcoreapp3.1\DioTDD.runtimeconfig.dev.json
+C:\Users\gabri\source\repos\DioTDD\bin\Debug\netcoreapp3.1\DioTDD.dll
+C:\Users\gabri\source\repos\DioTDD\bin\Debug\netcoreapp3.1\DioTDD.pdb
+C:\Users\gabri\source\repos\DioTDD\obj\Debug\netcoreapp3.1\DioTDD.dll
+C:\Users\gabri\source\repos\DioTDD\obj\Debug\netcoreapp3.1\DioTDD.pdb
+C:\Users\gabri\source\repos\DioTDD\obj\Debug\netcoreapp3.1\DioTDD.genruntimeconfig.cache

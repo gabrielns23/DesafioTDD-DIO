@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DioTDD", "DioTDD.csproj", "{772D9ADA-1DE0-4D02-9ADF-9DF89CE49C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalculadora", "..\TestCalculadora\TestCalculadora.csproj", "{FE92E9B3-C835-4D67-BE61-72E93D87186A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772D9ADA-1DE0-4D02-9ADF-9DF89CE49C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772D9ADA-1DE0-4D02-9ADF-9DF89CE49C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772D9ADA-1DE0-4D02-9ADF-9DF89CE49C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772D9ADA-1DE0-4D02-9ADF-9DF89CE49C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE92E9B3-C835-4D67-BE61-72E93D87186A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE92E9B3-C835-4D67-BE61-72E93D87186A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE92E9B3-C835-4D67-BE61-72E93D87186A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE92E9B3-C835-4D67-BE61-72E93D87186A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77EE6393-E5DD-4E9A-B89A-2C09547F3B85}
+	EndGlobalSection
+EndGlobal

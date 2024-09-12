@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\DioTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{772D9ADA-1DE0-4D02-9ADF-9DF89CE49C12}|DioTDD.csproj|c:\\users\\gabri\\source\\repos\\diotdd\\entities\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D9ADA-1DE0-4D02-9ADF-9DF89CE49C12}|DioTDD.csproj|solutionrelative:entities\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE92E9B3-C835-4D67-BE61-72E93D87186A}|..\\TestCalculadora\\TestCalculadora.csproj|c:\\users\\gabri\\source\\repos\\testcalculadora\\calculadorateste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D9ADA-1DE0-4D02-9ADF-9DF89CE49C12}|DioTDD.csproj|c:\\users\\gabri\\source\\repos\\diotdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D9ADA-1DE0-4D02-9ADF-9DF89CE49C12}|DioTDD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\DioTDD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\DioTDD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:46:49.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraTeste.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\TestCalculadora\\CalculadoraTeste.cs",
+              "RelativeDocumentMoniker": "..\\TestCalculadora\\CalculadoraTeste.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\TestCalculadora\\CalculadoraTeste.cs",
+              "RelativeToolTip": "..\\TestCalculadora\\CalculadoraTeste.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:43:41.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\DioTDD\\Entities\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Entities\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\DioTDD\\Entities\\Calculadora.cs",
+              "RelativeToolTip": "Entities\\Calculadora.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T21:43:29.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
